@@ -1,0 +1,2 @@
+int formula();
+int result();
