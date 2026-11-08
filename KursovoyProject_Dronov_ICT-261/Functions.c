@@ -1,6 +1,6 @@
-int formula(x)
+﻿int formula(x)
 {
-    if (x < -100) return 0;
+    if (x < -10) return 0;
     else if (x < 5) x = 4 * x + 5;
     else if (x >= 5 && x < 10) x = 2 * x + 15;
     else if (x >= 10) x = x + 25;

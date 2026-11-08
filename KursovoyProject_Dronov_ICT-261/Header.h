@@ -1,2 +1,2 @@
-int formula();
+﻿int formula();
 int result();
